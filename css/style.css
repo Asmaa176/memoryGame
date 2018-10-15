@@ -4,6 +4,13 @@ padding:0;
 width: 100%;
 box-sizing: border-box;
 }
+
+
+ body{
+  font-family: 'Roboto Slab', serif;
+  font-weight: lighter;
+}
+
 #container{
     width: 75%;
     max-width: 1170;
